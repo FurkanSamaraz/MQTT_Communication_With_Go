@@ -1,9 +1,9 @@
 # Sending-data-from-API-to-device-with-mqtt---SQLITE
-<img align="left" alt="Go" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" style="padding-right:20px;"/>
+<img align="left" alt="Go" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" style="padding-right:30px;"/>
 
-<img align="left" alt="SQLite" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" style="padding-right:20px;"/>
+<img align="left" alt="SQLite" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" style="padding-right:30px;"/>
 
-<img align="left" alt="MQTT" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" style="padding-right:20px;"/>  
+<img align="left" alt="MQTT" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" style="padding-right:30px;"/>. 
  
 # API
 API den http kütüphanesi ile coin verilerini json formatında okuyoruz daha sonra json formatından değişkene atıyoruz.
