@@ -3,7 +3,7 @@
 
 <img align="left" alt="SQLite" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" style="padding-right:20px;" />
 
-<img align="left" alt="MQTT" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" style="padding-right:20px;" />
+<img align="left" alt="MQTT" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" style="padding-right:20px;" 
 
 
 
