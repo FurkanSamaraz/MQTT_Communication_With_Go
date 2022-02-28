@@ -5,6 +5,8 @@
 
 <img align="left" alt="MQTT" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Mqtt-hor.svg" style="padding-right:20px;" />
 
+
+
 # API
 API den http kütüphanesi ile coin verilerini json formatında okuyoruz daha sonra json formatından değişkene atıyoruz.
 
