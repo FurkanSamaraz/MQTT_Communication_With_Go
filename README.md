@@ -1,3 +1,8 @@
+# Yapılması gerekenler
+Mqtt sanal cihaz kullanımı için hivemq kullanıcaz ve bir ip adresini gerekli olduğu için domain dönüştürücüyü kullanacağız.
+--http://www.hivemq.com/demos/websocket-client/
+--https://domaintoipconverter.com/index.php
+
 # Sending-data-from-API-to-device-with-mqtt---SQLITE
 <img align="left" alt="Go" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" style="padding-right:30px;"/>
 
