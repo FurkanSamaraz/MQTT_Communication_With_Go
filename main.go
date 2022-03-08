@@ -77,13 +77,14 @@ func main() {
 		panic(token.Error())
 	}
 
-	// mesajları almak için abone ol
+		
+	// mesajları almak için abone ol (Client(istemci) den gelen mesajları al)
 	if token := c.Subscribe("deneme1", 0, nil); token.Wait() && token.Error() != nil {
 		fmt.Println(token.Error())
 		os.Exit(1)
 	}
 
-	// mesajları yayınla
+	// mesajları yayınla (Client(istemci) mesaj gönder)
 	token := c.Publish("deneme1", 0, false, giris)
 	token.Wait()
 
